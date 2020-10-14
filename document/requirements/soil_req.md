@@ -1,4 +1,4 @@
-##Soil Moisture##
+Soil Moisture
 * [ReqID:01] It shall be possible to have 1 soil moisture sensors.
 * [ReqID:02] It shall be possible to initialize the module <soil_moisture>
 * [ReqID:05] It shall be possible to get <soil_moisture_config_dry> from CAN bus.
