@@ -18,3 +18,4 @@
 * [ReqId:014] It shall be possible to send <temperature_value> to the CAN bus every 1000ms
 * [ReqId:015] It shall be possible to send <humidity_level> to the CAN bus every 1000ms
 * [ReqId:016] It shall be possible to send <sensor_status> to the CAN bus every 1000ms
+
