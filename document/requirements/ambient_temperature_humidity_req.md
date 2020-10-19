@@ -8,7 +8,7 @@
 * [ReqId:006] It shall be possible to get <temperature_max_cal_value> from CAN bus
 * [ReqId:007] It shall be possible to get <humidity_min_cal_value> from CAN bus
 * [ReqId:008] It shall be possible to get <humidity_max_cal_value> from CAN bus
-* [ReqId:009] It Shall be possible to read current temperature <temperature_value> as a float number every 1000ms
+* [ReqId:009] It Shall be possible to read current temperature <temperature_value> as a integer number every 1000ms
 * [ReqId:010] It shall be possible to read current humidity <humidity_value> as a integer number every 1000ms
 * [ReqId:011] It shall be possible to convert <humidity_value> to a percentage representing the humidity level <humidity_level>
 * [ReqId:012] If <temperature_value> is not in range of <temperature_min_cal_value> and <temperature_max_cal_value> the status of the sensor
